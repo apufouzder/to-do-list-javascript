@@ -1,0 +1,35 @@
+body {
+    background: radial-gradient(#133f90, #12b8cad9);
+}
+.main{
+    
+   text-align: center;
+}
+p{
+    background: gray;
+    width: 450px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    color: #dbdf00;
+    font-size: 30px;
+}
+input#input {
+    padding: 10px 52px;
+    border: 4px solid cyan;
+    background: #ffffff;
+    font-size: 20px;
+}
+h1 {
+    font-size: 50px;
+    color: #d8ff00;
+}
+button#add-btn {
+    padding: 12px;
+    margin-left: -1px;
+    border: 2px solid cyan;
+    font-size: 20px;
+    cursor: pointer;
+    background: #ffffff;
+}
